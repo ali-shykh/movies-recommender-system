@@ -1,0 +1,26 @@
+section.st-emotion-cache-uf99v8 {
+    background-image: linear-gradient(to bottom right, #9970db, #00bbff);
+}
+div.st-bx {
+    background-color: transparent;
+    color: #000000;
+    border: 2px solid rgb(38, 39, 48);
+}
+svg.st-bs {
+    color: #000000;
+    border-left: 2px solid rgb(38, 39, 48);
+    padding-left: 10px;
+    cursor: pointer;
+}
+button.st-emotion-cache-1x5kdwo {
+    background-color: transparent;
+    color: rgb(38, 39, 48);
+    border: 2px solid rgb(38, 39, 48);
+}
+button.st-emotion-cache-1x5kdwo:hover {
+    border-color: aqua;
+    color: aqua;
+    transition: 0.3s ease-in-out;
+}p {
+    font-weight: 600;
+ }
