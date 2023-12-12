@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 import requests
 
-with open("styles.css") as f:
+with open("static/styles.css") as f:
     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 movies_dict = pickle.load(open('movies_dict.pkl', 'rb'))
